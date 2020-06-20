@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomJavaSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">account name…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Invalid input.</string>
+    <string name="add_word">Add Account</string>
+</resources>
